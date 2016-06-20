@@ -68,9 +68,8 @@ import com.android.messaging.util.ContentType;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.MediaUtil;
 import com.android.messaging.util.OsUtil;
+import com.android.messaging.util.PrefsUtils;
 import com.android.messaging.util.UiUtils;
-
-import com.cyanogenmod.messaging.util.PrefsUtils;
 
 import java.util.Collection;
 import java.util.List;

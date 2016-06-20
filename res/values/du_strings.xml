@@ -18,7 +18,7 @@
 
     <!-- Video and audio attachments -->
     <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audios from this device</string>
+    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
     <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
     <string name="mediapicker_audio_list_title">Choose audio</string>
     <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
