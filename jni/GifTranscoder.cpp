@@ -319,6 +319,9 @@ bool GifTranscoder::resizeBoxFilter(GifFileType* gifIn, GifFileType* gifOut) {
                     return false;
                 }
             } break;
+
+            default:
+                break;
         }
 
     } while (recordType != TERMINATE_RECORD_TYPE);
