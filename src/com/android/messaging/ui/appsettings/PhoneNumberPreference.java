@@ -43,7 +43,7 @@ public class PhoneNumberPreference extends EditTextPreference {
     private int mSubId;
 
     public PhoneNumberPreference(final Context context, final AttributeSet attrs) {
-        super(new ContextThemeWrapper(context, R.style.BugleThemeDialog), attrs);
+        super(context, attrs);
         mDefaultPhoneNumber = "";
     }
 
